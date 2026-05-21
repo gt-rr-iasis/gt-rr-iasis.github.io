@@ -8,18 +8,18 @@
   --accent-hover: #15655a;
   --accent-light: rgba(26, 122, 109, 0.08);
 
-  // Light mode — warm parchment tones
-  --bg-primary: #f8f6f1;
-  --bg-secondary: #f0ece4;
-  --bg-card: #ffffff;
-  --text-primary: #2c2a25;
-  --text-secondary: #5c5850;
-  --text-muted: #8a857c;
-  --border-color: #e2ded6;
-  --shadow-sm: 0 1px 3px rgba(44, 42, 37, 0.06);
-  --shadow-md: 0 4px 12px rgba(44, 42, 37, 0.08);
-  --shadow-lg: 0 8px 24px rgba(44, 42, 37, 0.1);
-  --shadow-navbar: 0 1px 4px rgba(44, 42, 37, 0.1);
+  // Light mode — clean white with subtle gray variation
+  --bg-primary: #ffffff;
+  --bg-secondary: #f6f6f4;
+  --bg-card: #fbfbfa;
+  --text-primary: #222222;
+  --text-secondary: #5c5c5c;
+  --text-muted: #8a8a8a;
+  --border-color: #e7e7e3;
+  --shadow-sm: 0 1px 3px rgba(34, 34, 34, 0.05);
+  --shadow-md: 0 4px 12px rgba(34, 34, 34, 0.07);
+  --shadow-lg: 0 8px 24px rgba(34, 34, 34, 0.09);
+  --shadow-navbar: 0 1px 4px rgba(34, 34, 34, 0.08);
 
   // Layout
   --container-max: 1100px;
