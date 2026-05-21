@@ -1,22 +1,19 @@
 # ============================================================
 # STEP 1: Your Identity (required)
 # ============================================================
-name: "Richard Feynman"
-title: "Professor of Physics"
-institution: "California Institute of Technology"
-email: richard@university.edu
+name: "GT-RR-IASIS"
+fullname: "Welcome to the working group on reproducible research"
+title: "Groupe de travail GdR IASIS"
+institution: "CNRS"
+email: 
 photo: headshot.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
-  researchgate: "https://www.researchgate.net/"
-  orcid: ""
-  twitter: ""
-  linkedin: ""
+  github: "https://github.com/gt-rr-iasis/"
+  gdr: "https://"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
@@ -24,7 +21,7 @@ links:
 # ============================================================
 accent_color: "#1a7a6d"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
-description: "Academic webpage of Dr. Richard Feynman"
+description: "Website of the working group on reproducible research - GdR IASIS"
 baseurl: ""
 url: ""
 
@@ -36,14 +33,14 @@ analytics:
 # STEP 4: Choose Your Pages (comment out any you don't need)
 # ============================================================
 nav_pages:
-  - name: about
-  - name: publications
-  - name: talks
-  - name: research
-  - name: software
-  - name: team
-  - name: teaching
-  - name: blogs
+  # - name: about
+  # - name: publications
+  # - name: talks
+  # - name: research
+  # - name: software
+  # - name: team
+  # - name: teaching
+  # - name: blogs
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
