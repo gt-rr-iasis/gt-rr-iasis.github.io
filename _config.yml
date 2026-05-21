@@ -7,6 +7,7 @@ title: "Groupe de travail GdR IASIS"
 institution: "CNRS"
 email: 
 photo: headshot.jpg  # place your photo in images/
+favicon: "GT" # will be diplayed in favicon with the routine in favicon.svg
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
