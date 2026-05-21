@@ -5,8 +5,8 @@ sitemap: false
 permalink: /
 ---
 
-<h2 class="home-hero">Welcome to our working group!</h2>
-<h3> Reproducible research in signal and image processing </h3>
+<h2 class="home-hero">Reproducible research in signal and image processing</h2>
+<h3> Good practices in writing, coding and data management</h3>
 <p class="home-hero-sub">Groupe de travail [GdR IASIS](https://gdr-iasis.cnrs.fr/), CNRS -- 2026-2028</p>
 
 
@@ -46,4 +46,4 @@ The working group is proposed and animated by (in alphabetic order):
 * [Julien Flamant](https://jflamant.github.io) (CRAN, Nancy)
 * Ammar Mian (LISTIC, Annecy)
 * Yassine Mhiri (LISTIC, Annecy)
-* Barbara Pascal (LS2N, Nantes)
+* [Barbara Pascal](https://bpascal-fr.github.io/) (LS2N, Nantes)
